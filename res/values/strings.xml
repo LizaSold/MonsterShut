@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MonsterShut</string>
+<string name="spash">MonsterShut</string>
+<string name="about">О программе</string>
+<string name="main">Главный экран</string>
+<string name="splash_title">MonsterShut</string>
+<string name="splash_footer">Загрузка...</string>
+<string name="starLabel">Начать игру</string>
+<string name="exitLabel">Закончить игру</string>
+<string name="aiFirstLabel">Компьютер</string>
+<string name="userFirstLabel">Вы</string>
+<string name="whosFirstLabel">Кто ходит первым</string>
+<string name="youLabel">Вы</string>
+<string name="aiLabel">Компьютер</string>
+<string name="score">Счет: </string>
+</resources>
+ 	 

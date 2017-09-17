@@ -1,0 +1,30 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+<TextView
+android:id="@+id/splashTitle"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:gravity="center_horizontal"
+android:text="@string/splash_title"
+android:textColor="@color/splash_title"
+android:textSize="@dimen/splash_title" />
+<ImageView 
+android:id="@+id/imageLogo"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:src="@drawable/images" />
+<TextView
+android:id="@+id/splashFooter"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:gravity="center_horizontal"
+android:text="@string/splash_footer"
+android:textColor="@color/splash_footer"
+android:textSize="@dimen/splash_footer" />
+</LinearLayout>
